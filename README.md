@@ -9,13 +9,6 @@ Edge Cases:
 - Months with more or less than 30 days
 - Characters or letters entered
 
-Considerations: 
-
-- Where will Order info be stored
-- How many simultaneous orders can be placed
-- Min & max dog food that can be ordered
-- Is shelter inside or outside U.S (measurement units)
-
 Error Cases: 
 
 - What happens if user inputs letters or symbols
@@ -24,3 +17,8 @@ AC:
 
 - Given the number of each size of dogs currently in your shelter and the remaining food from last month then
   function should return how much you should order.
+
+Questions: 
+
+- Where will Order info be stored?
+- Is shelter inside or outside U.S (measurement units)?
