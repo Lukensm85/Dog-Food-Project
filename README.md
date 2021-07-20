@@ -13,12 +13,11 @@ Error Cases:
 
 - What happens if user inputs letters or symbols
 
-AC: 
+Acceptance Criteria: 
 
 - Given the number of each size of dogs currently in your shelter and the remaining food from last month then
   function should return how much you should order.
 
 Questions: 
 
-- Where will Order info be stored?
 - Is shelter inside or outside U.S (measurement units)?
