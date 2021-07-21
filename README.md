@@ -21,3 +21,10 @@ Acceptance Criteria:
 Questions: 
 
 - Is shelter inside or outside U.S (measurement units)?
+
+
+Steps: 
+
+1. Pull latest branch to local
+2. Install required Python plugins
+3. Execute test
