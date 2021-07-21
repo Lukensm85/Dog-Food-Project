@@ -13,18 +13,17 @@ Error Cases:
 
 - What happens if user inputs letters or symbols
 
-Acceptance Criteria: 
-
-- Given the number of each size of dogs currently in your shelter and the remaining food from last month then
-  function should return how much you should order.
-
 Questions: 
 
 - Is shelter inside or outside U.S (measurement units)?
-
 
 Steps: 
 
 1. Pull latest branch to local
 2. Install required Python plugins
 3. Execute test
+
+Acceptance Criteria: 
+
+- Given the number of each size of dogs currently in your shelter and the remaining food from last month then
+  function should return how much you should order.
